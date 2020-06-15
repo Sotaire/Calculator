@@ -12,6 +12,7 @@
         <item name="android:layout_weight">1</item>
         <item name="android:textSize">32sp</item>
         <item name="android:onClick">onClick_buttons</item>
+        <item name="android:inputType">numberDecimal</item>
 
     </style>
     <style name="forLogicButtons">
